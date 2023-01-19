@@ -1,0 +1,158 @@
+/* header area start */
+body{
+    margin: 0px;
+}
+.headst{
+    background-color: lightgreen;
+    overflow: hidden;
+}
+div.head{
+
+    height: 300px;
+    
+}
+.continer{
+    width: 85%;
+    margin: auto;
+}
+
+
+
+.web_logo{
+    width: 300px;
+}
+img.web_img{
+    height:220px;
+     width: 230px;
+    margin-top: 20px;
+}
+div.webtitle {
+    width: 951px;
+    margin-left: 265px;
+    position: relative;
+    bottom: 261px;
+    font-size: 63px;
+  }
+
+  div.slogan{
+    position: relative;
+    left: 268px;
+    font-size: 40px;
+    bottom: 349px;
+    
+  }
+
+
+  /* header area end */
+
+
+  /* manu area start */
+
+.outer_manu{
+   height: 100px;
+   background-color: rgb(53, 50, 50);
+}
+
+  nav{
+    float: left;
+
+  }
+nav ul{
+    
+    text-align: center;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(216, 120, 120);
+    font-size: 22px;
+    padding: 10px 20px;
+    display: block;
+    text-transform: uppercase;
+}
+nav ul li a:hover{
+    background-color: rgb(235, 219, 197);
+}
+
+  /* manu area end */
+  
+  
+  /* service area start */ 
+  .service{
+
+    background-color: bisque;
+    height: 400px;
+    overflow: hidden;
+
+  }
+
+  .Our_services{
+
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .service_under_line{
+    height: 2px;
+    width: 258px;
+    background-color: rgba(102, 137, 139, 0.937);
+    margin-left: 549px;
+    position: relative;
+    bottom: 22px;
+  }
+  
+.servies_box{
+
+    width: 50%;
+    position: relative;
+}
+.servies_box_2{
+    
+   width: 50%;
+    position: relative;
+    left: 572px;
+    bottom: 154px;
+}
+
+
+.service_line{
+    height: 2px;
+    width: 152px;
+    background-color: black;
+    position: relative;
+    bottom: 10px;
+    
+
+  }
+
+  .service_line_2{
+
+    height: 2px;
+    width: 128px;
+    background-color: black;
+    position: relative;
+    bottom: 10px;
+}
+
+.service_pera{
+    font-size: 20px;
+}
+  /* service area end */
+
+
+  /* Our Cake area start */ 
+  
+  .our_cakes{
+
+    height: 400px;
+    background-color: rgb(189, 177, 177); 
+    overflow: hidden;
+  }
+
+  /* Our Cake area end */
+
