@@ -115,7 +115,7 @@ nav ul li a:hover{
     
    width: 50%;
     position: relative;
-    left: 572px;
+    left: 621px;
     bottom: 154px;
 }
 
@@ -141,6 +141,7 @@ nav ul li a:hover{
 
 .service_pera{
     font-size: 20px;
+    text-align: justify;
 }
   /* service area end */
 
